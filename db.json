@@ -1,0 +1,128 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Women 1",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "Jejak Si Gundul",
+      "alterEgo": "Wawan",
+      "id": 4
+    },
+    {
+      "name": "Wiro Sableng",
+      "alterEgo": "Agus",
+      "id": 5
+    },
+    {
+      "name": "Cat Woman",
+      "alterEgo": "Selena Kyle",
+      "id": 6
+    },
+    {
+      "name": "ok",
+      "alterEgo": "ok",
+      "id": 7
+    },
+    {
+      "name": "Aquaman",
+      "alterEgo": "Wiwi",
+      "id": 8
+    },
+    {
+      "name": "tes",
+      "alterEgo": "tes",
+      "id": 9
+    },
+    {
+      "name": "tes 2",
+      "alterEgo": "tes 2",
+      "id": 10
+    },
+    {
+      "name": "tes 3",
+      "alterEgo": "tes 3",
+      "id": 11
+    },
+    {
+      "name": "tes 4",
+      "alterEgo": "tes 4",
+      "id": 12
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Agus"
+    },
+    {
+      "id": 2,
+      "name": "Abi"
+    },
+    {
+      "id": 3,
+      "name": "Abu"
+    }
+  ],
+  "users": [
+    {
+      "id": "tes@gmail.com",
+      "channelId": "ngobar"
+    }
+  ],
+  "channels": [
+    {
+      "id": "ngobar",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
+}
